@@ -8,7 +8,7 @@ from neo4j import GraphDatabase
 SNOWFLAKE_CONFIG = {
     "account"  : "DNMDMVL-GCB58331",
     "user"     : "UDAY0803",
-    "password" : "Meluomudaypatel3@",
+    "password" : "*************",
     "warehouse": "COMPUTE_WH",
     "database" : "AIRBNB",
     "schema"   : "DBT_SCHEMA_GOLD",
@@ -16,7 +16,7 @@ SNOWFLAKE_CONFIG = {
 
 NEO4J_URI      = "neo4j+s://75b3490d.databases.neo4j.io"
 NEO4J_USER     = "75b3490d"
-NEO4J_PASSWORD = "hkUt-4Lsd8j6MgW4fU0ReMvDVl6q0elOmthjO8z067M"
+NEO4J_PASSWORD = "********"
 
 # ─────────────────────────────────────────────
 # STEP 1 — Pull data from Snowflake OBT
